@@ -1,0 +1,7 @@
+Created virtual environment
+Activated venv
+Installed Django
+Checked Django version
+Created project klaw_backend
+Created app courses
+Run development server successfully
